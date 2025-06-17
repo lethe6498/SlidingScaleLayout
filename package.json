@@ -1,0 +1,22 @@
+{
+  "name": "sliding-scale-layout",
+  "version": "1.0.0",
+  "description": "React滑动缩放布局组件",
+  "main": "src/SlidingScaleLayout.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "carousel",
+    "sliding"
+  ],
+  "author": "lethe6498",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
